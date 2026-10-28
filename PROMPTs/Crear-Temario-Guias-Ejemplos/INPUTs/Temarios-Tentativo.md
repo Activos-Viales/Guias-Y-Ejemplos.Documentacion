@@ -1,39 +1,54 @@
 
 
-## Temario tentativo
+# Temario tentativo
 
-  Lista de temas acorde a los plantes de trabajos que el grupo de programadores debe realizar `/GROUPs/Activo-Viales/Group-Activos-Viales-Media/Documentacion-Proyecto.Documentacion/PROMPTs/01-Redaccion-Plan/ARTIFACs/Final-Plan-Trabajo.md` y `/GROUPs/Activo-Viales/Group-Activos-Viales-Media/Documentacion-Proyecto.Documentacion/PROMPTs/01-Redaccion-Plan/ARTIFACs/Plan-Trabajo-PPS-UTN.md`
+## Introducción
+
+  Este documento trata sobre el temario de temas tentativos que debe server de guía para estructurar guías de estudios por temas, ejemplos y ejemplo demostrativo de soportes para la bibliografia generada.
+
+  Todo el material, incluido parte de las necesidades que se deben cubrir para desarrollar en el sistema por parte de un grupo de estudiantes bajo los siguientes planes de trabajos:
+    - Plan de trabajo completo: `/GROUPs/Activo-Viales/Group-Activos-Viales-Media/Documentacion-Proyecto.Documentacion/PROMPTs/01-Redaccion-Plan/ARTIFACs/Final-Plan-Trabajo.md` 
+    - Plan de trabajo reducido, requerido por la institución educativa: `/GROUPs/Activo-Viales/Group-Activos-Viales-Media/Documentacion-Proyecto.Documentacion/PROMPTs/01-Redaccion-Plan/ARTIFACs/Plan-Trabajo-PPS-UTN.md`
+
+
+## Temas:
 
   - **Aspectos teóricos de .NET**
     Inyección de dependencias (DI) e inversión de control (IoC), ciclo de vida de los servicios que administra el contenedor de dependencias. Ejemplos minimalistas y prácticos de uso según el caso. 
 
   - **Acceso a datos - ORM**: .NET EntityFramework, Estrategias, base de datos primero, clase primero, script de migración, Planteo de diferentes situaciones según en que caso. Situaciones ante mapeo de jerarquías de clases y objetos, estrategías.  
 
-  - **Arquitectura en .NET** - Arquitectura de depdencias clean según el estandar de .NET, modelo de capas, definición desarrollo práctico, como identificar que escribir en cada una, ejemplificar que clase va en donde y que lleva. 
+  - **Aplicaciones web y RestAPI**: Páginas blazord interactive server.
 
-  - **Pruebas**: E2E, Pruebas unitarias, y deintegración. Todas dentro del entorno .NET. Que pretende cada una, ejemplos. 
+  - **Arquitectura en .NET** - Arquitectura de depedencias clean según el estandar de .NET, modelo de capas, definición desarrollo práctico, como identificar que escribir en cada una, ejemplificar que clase va en donde y que lleva. 
+
+  - **Pruebas**: E2E, Pruebas unitarias, y de integración. Todas dentro del entorno .NET. Que pretende cada una, ejemplos. 
 
   - **Devops**, despliegue, diferentes estrategias.
      Contenedores docker, devcontainer, desarrollo en visualcode, visual studio, 
 
-  - Integración con mapas
-
-  - **Bases de datos**,. principios básicos, y avanzados, procedimientos almacenado , script, DDL, DML, etc. Georeferenciación.
+  - **Bases de datos**: principios básicos, y avanzados, procedimientos almacenado , script, DDL, DML, etc. Georeferenciación.
      a. Postgresql para uso en servicios web y API.
      b. SQLite para uso en aplicaciones móviles
 
-  - Integración con IA, agentes, 
+  - **Mapas y geolocalización**: 
+    - Bases de datos PostGIS
+    - Librerias OpenStreet Leaflet
 
-  - Integración con sistema de documentación.
+
+  - **Integración con IA, agentes**: AI Layer: LLM/Generative Models RAG Pipeline, AI Services & Agentes, Embeddings, Vector DB
+
+  - **Integración con sistema de documentación**
+
   Actualmente hay formas de estructurar la documentacion con metodlogias `DocsAsCode`. Métodologías de desarrollo y ciclo de vida de desarrollo de la documentación.
   Referencia actual: `/LAB/Lab-Documentos/Lab-Documentos/Guides/Documentacion-Tecnica/` una guía de resumen, ejemplos y demostración en .net. 
 
-- Desarrollo de aplicaciones móviles en .NET. MAUI .NET, MAUI .NET Blazor hibridas, integración con sqlite. Modelo de aplicación sin conexión. Modelo de aplicación
+  - Desarrollo de aplicaciones móviles en .NET. MAUI .NET, MAUI .NET Blazor hibridas, integración con sqlite. Modelo de aplicación sin conexión. Modelo de aplicación
 
-- Manejo de proyectos, Requerimientos y Diseño: Metodologías agiles, metodlogía Scrum, Canvas, otras. En que caso se aplica cada una.
+  - **Manejo de proyectos, Requerimientos y Diseño**: Metodologías agiles, metodlogía Scrum, Canvas, otras. En que caso se aplica cada una.
   Ciclo de desarrollo del sofware: Lenguage Modelo Unificado, Casos de usos, 
   
-- Herramientas de georeferenciación, QGis, postgresq. Ejemplos prácticos, definiciones, aplicaciones.
+  - **Herramientas de georeferenciación**, QGis, postgresq. Ejemplos prácticos, definiciones, aplicaciones.
 
 - Unidad integradora: Desarrollo de un ejemplo completo que sirva de debate, discusión, referencia y apoyo 
 
