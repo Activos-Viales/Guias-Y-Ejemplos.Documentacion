@@ -9,6 +9,12 @@
 
 ## Contexto
 
+  Leer `/GROUPs/Activo-Viales/Guias-Y-Ejemplos/Guias-Y-Ejemplos.Documentacion/PROMPTs/Crear-Temario-Guias-Ejemplos/INPUTs/Idea-Inicial-Ejemplo-Integrador.md`
+
+  Leer `/GROUPs/Activo-Viales/Guias-Y-Ejemplos/Guias-Y-Ejemplos.Documentacion/PROMPTs/Crear-Temario-Guias-Ejemplos/INPUTs/Base-Documental-Y-Ejemplos-Existente.md`
+
+  Leer `GROUPs/Activo-Viales/Guias-Y-Ejemplos/Guias-Y-Ejemplos.Documentacion/PROMPTs/Crear-Temario-Guias-Ejemplos/INPUTs/Temarios-Tentativo.md`
+
   Leer `/LAB/Lab-Documentos/Lab-Documentos.Documentacion/ia-db/README.md` y Leer `/LAB/Lab-E2E.WebBlazor/Lab-E2E.WebBlazor.Documentacion/ia-db/README.md` son ejemplos y documentación de referencia sobre los mayorias de los temas tratados.
 
   Leer `/GROUPs/Activo-Viales/Group-Activos-Viales-Media/Documentacion-Proyecto.Documentacion/PROMPTs/01-Redaccion-Plan/ARTIFACs/Final-Plan-Trabajo.md`, es un `Plan de trabajo final` pensado para que sea ejecutado por un grupo de estudiantes de la facultad a fin de que puedan cumplir con sus prácticas supervisadas.
